@@ -1,0 +1,14 @@
+{
+    "body": "{\"ride_admin_user_id\": \"8f145438-b1a9-41ab-bfa5-d5f0191b7a91\", \"ride_admin_comments\": \"Sharing a ride to the park for a relaxing day.\", \"current_location\": {\"longitude\": 139.6916, \"latitude\": 35.689}, \"destination\": {\"longitude\": 139.7528, \"latitude\": 35.6896}, \"capacity\": 3, \"occupancy\": 0, \"radius_of_acceptance\": 1500, \"fuel_type\": \"hybrid\", \"vehicle_type\": \"coupe\"}",
+    "httpMethod": "POST",
+    "headers": {
+      "Content-Type": "application/json",
+      "Authorization": {
+        "id_token": "FAKE",
+        "access_token": "FAKE",
+        "refresh_token": "FAKE",
+        "token_type": "Bearer",
+        "expires_in": 3600
+      }
+    }
+  }

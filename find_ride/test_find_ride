@@ -1,0 +1,7 @@
+{
+  "body": "{\"ride_id\": 1}",
+  "httpMethod": "GET",
+  "headers": {
+    "Content-Type": "application/json"
+  }
+}
